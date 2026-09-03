@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_nana_poikatsu_knowledge/01_profile.md",
+                "file": "_nana_poikatsu_knowledge/06_posting-style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_profile"
+              "title": "06_posting-style"
             }
           }
         ]
@@ -186,5 +186,7 @@
     }
   },
   "active": "948c76148cdd89fb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_nana_poikatsu_knowledge/01_profile.md"
+  ]
 }
